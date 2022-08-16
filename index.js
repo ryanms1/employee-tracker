@@ -14,8 +14,8 @@ const promptUser = () => {
                 'View all roles',
                 'View all employees',
                 'Add a department',
-                'Add an employee',
                 'Add a role',
+                'Add an employee',
                 "Update an employee's role"
             ]
         }
@@ -34,11 +34,11 @@ const promptUser = () => {
                 case 'Add a department':
                     addDept();
                     break;
-                case 'Add an employee':
-                    addEmp();
-                    break;
                 case 'Add a role':
                     addRole();
+                    break;
+                case 'Add an employee':
+                    addEmp();
                     break;
                 case "Update an employee's role":
                     updateRole();
