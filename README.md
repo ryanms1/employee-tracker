@@ -2,6 +2,9 @@
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Description
+  
+  [Employee Tracker.webm](https://user-images.githubusercontent.com/101146873/185002091-5483e746-229e-475a-a925-4ffe25a6b86f.webm)
+
 
   This project uses the inquirer package to prompt the user with questions and use their answers to view and manage a mySQL database containing their company's departments, roles, and employees.
 
